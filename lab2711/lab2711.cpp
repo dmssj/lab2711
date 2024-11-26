@@ -1,4 +1,4 @@
-#include <iostream>     //календарь
+#include <iostream>     //календарь лаба
 using namespace std;
 
 int main() {
